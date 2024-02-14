@@ -1,5 +1,5 @@
 Browser Automation Studio script
 
-Compiled to EXE script in github.com/Underneach/Mediafire-Autoreger-BAS/releases
+Compiled to EXE script in Releases
 
 All functional description in zelenka.guru/threads/6632578/
